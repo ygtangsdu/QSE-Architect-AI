@@ -1,0 +1,5 @@
+{
+  "name": "QSE Architect AI",
+  "description": "A Quantitative Spatial Equilibrium (QSE) modeling assistant using Gemini 3 Pro's deep thinking capabilities to build models, estimate parameters, and perform counterfactual analysis with synthetic data.",
+  "requestFramePermissions": []
+}
